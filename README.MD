@@ -1,7 +1,7 @@
 # Barnsley fern fractal
 
 <h1 align="center">
-        <img src="https://ik.imagekit.io/zgaqvgdcba0/Screen_Shot_2021-03-03_at_22.32.46_FzI28K9ln.png">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Barnsley_fern_1024x1024.png">
 </h1>
 
 ## Fractals are fascinating patterns.
